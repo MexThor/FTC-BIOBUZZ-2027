@@ -5,6 +5,7 @@ public class PollitoVivo_Héctor {
 
     int conteo = 0;
 
+
     for(int i; i= 10, 1++){
         conteo = conteo + 1;
     }
